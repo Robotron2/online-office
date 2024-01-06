@@ -8,8 +8,6 @@ function Contact() {
 		<>
 			<div>
 				<div className="max-w-screen-2xl mt-24 mb-24 p-4 px-6 grid gap-12 grid-cols-1 md:grid-cols-2 md:px-12  py-16 mx-auto bg-gray-100 text-gray-900 rounded-lg shadow-lg">
-					{/* <div className="max-w-screen-2xl mt-24 mb-24 grid gap-12 grid-cols-1 md:grid-cols-2 md:px-12 py-16 mx-auto bg-gray-100 text-gray-900 rounded-lg shadow-lg "> */}
-
 					<motion.div
 						variants={fadeIn("right", 0.1)}
 						initial="hidden"
