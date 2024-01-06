@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer"
 import About from "./components/About"
 import Contact from "./components/Contact"
 import Hero from "./components/Hero"
@@ -10,6 +11,7 @@ function Home() {
 			<About />
 			<Services />
 			<Contact />
+			<Footer />
 		</>
 	)
 }
